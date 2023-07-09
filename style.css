@@ -1,0 +1,43 @@
+.by{
+	background-color: #f5faf0;
+}
+.txt{
+	background-color: #e9f3dd;
+    color: #8fc04e;
+}
+.span{
+	color: #8fc04e;
+}
+.icon{
+	color: #8fc04e;
+}
+button:hover{
+	color: #8fc04e;
+}
+.card{
+	background-color: #8fc04e;
+}
+.card-body{
+	background-color: #8fc04e;
+}
+.ic{
+	font-size: 13px;
+}
+.i{
+	color: #8fc04e;
+}
+.ic2{
+	font-size: 13px;
+}
+.icn{
+	background-color: #e9f3dd;
+	width: 24px;
+	height: 24px;
+	color: #8fc04e;
+}
+.tc{
+	font-size: 12px;
+}
+a{
+	color: #8fc04e!important;
+}
